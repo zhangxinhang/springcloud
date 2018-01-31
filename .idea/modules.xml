@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurekaclient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eurekaclient_main.iml" group="eurekaclient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurekaclient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eurekaclient_test.iml" group="eurekaclient" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurekaserver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eurekaserver_main.iml" group="eurekaserver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eurekaserver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eurekaserver_test.iml" group="eurekaserver" />
+      <module fileurl="file://$PROJECT_DIR$/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/serice-feign/serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serice-feign_main.iml" filepath="$PROJECT_DIR$/.idea/modules/serice-feign_main.iml" group="serice-feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/serice-feign_test.iml" filepath="$PROJECT_DIR$/.idea/modules/serice-feign_test.iml" group="serice-feign" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon_main.iml" group="service-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon_test.iml" group="service-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloud.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloud_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloud_main.iml" group="springcloud" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloud_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloud_test.iml" group="springcloud" />
+    </modules>
+  </component>
+</project>
