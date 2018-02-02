@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon_main.iml" group="service-ribbon" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-ribbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-ribbon_test.iml" group="service-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-zuul_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-zuul_main.iml" group="service-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-zuul_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-zuul_test.iml" group="service-zuul" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloud.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloud_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloud_main.iml" group="springcloud" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springcloud_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springcloud_test.iml" group="springcloud" />
